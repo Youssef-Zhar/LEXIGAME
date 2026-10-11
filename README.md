@@ -1,4 +1,4 @@
-# 🎮 LEXIGAME
+#  LEXIGAME
 
 **LEXIGAME** is a full-stack e-commerce web application built with **React**, **Laravel**, and **MySQL**.
 
