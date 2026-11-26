@@ -280,7 +280,7 @@ PHP, Composer, Node.js, and MySQL do not need to be installed separately when us
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Joseph-Nostra/LEXIGAME.git
+git clone https://github.com/Youssef-Zhar/LEXIGAME.git
 cd LEXIGAME
 ```
 
@@ -526,7 +526,7 @@ Potential improvements include:
 
 **Youssef Zhar**
 
-GitHub: **@Joseph-Nostra**
+GitHub: **@Youssef-Zhar**
 
 ---
 
